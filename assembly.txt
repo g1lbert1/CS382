@@ -1,0 +1,10 @@
+.text
+
+//adder <dst> mnemonic <src1> <src2> 
+//      <dst> load <adr>
+//      <dst> store <adr>
+
+    r3 add 15 15
+    r2 add 10 10
+
+
